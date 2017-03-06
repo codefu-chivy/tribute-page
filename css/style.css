@@ -1,0 +1,112 @@
+body {
+  text-align: center;
+  background-color: grey;
+  font-family: "Oxygen";
+}
+* {
+  border-radius: 0 !important;
+}
+h1 {
+  font-family: Quicksand, serif;
+  font-size: 60px;
+  letter-spacing: 1px;
+}
+#content {
+  background-color: white;
+  min-width: 100;
+  max-width: 95%;
+  box-shadow: 0 0 10px black;
+}
+.img-center {
+  margin: 0 auto;
+  max-width: 60% !important;
+  min-width: 
+}
+p {
+  margin: 0 auto !important;
+  font-size: 20px;
+  margin: 20px;
+  max-width: 70%;
+}
+#description {
+  text-align: left;
+}
+button:hover {
+  box-shadow: 0 0 10px black;
+}
+#click {
+  color: red;
+  letter-spacing: .8px;
+  text-transform: capitalize;
+}
+#youtube {
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+  margin: 0 auto;
+}
+.img-responsive {
+  margin: 0 auto;
+}
+#song12 {
+  margin: 30px;
+}
+#song34 {
+  margin: 30px;
+}
+.resize {
+  box-shadow: 0 0 20px black;
+}
+.container-fixed {
+}
+h3 {
+  margin: 10px auto;
+  font-style: italic;
+  font-weight: bold;
+  letter-spacing: 1px;
+  background-color: Gainsboro;
+  max-width: 72%;
+  min-width: 100px;
+  max-height: 45px;
+  min-height: 60px;
+  padding: 8px;
+ }
+table {
+  margin: 20px auto;
+  border-top: 2px solid black;
+  border-bottom: 2px solid black;
+  max-width: 50% !important;
+  padding: 30px !important;
+  min-width: 100% !important;
+  
+}
+#disc {
+  margin: 50px;
+}
+#dis {
+  margin: 25px
+}
+h2 {
+  font-weight: bold;
+}
+.heading {
+  text-align: center;
+}
+th {
+  font-size: 22px;
+  border: .6px solid black;
+}
+tr {
+  font-size: 20px;
+  text-align: center;
+}
+td {
+  border: .6px solid black;
+}
+tr:hover {
+  background-color: grey;
+}
+.tab {
+  width: 90px;
+  height: 90px;
+}
+
